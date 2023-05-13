@@ -1,0 +1,3 @@
+function buyNow() {
+    alert('Successful');
+}
